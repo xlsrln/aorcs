@@ -30,7 +30,7 @@ Please check the [notice board](https://github.com/xlsrln/aorcs/blob/main/news.m
 #### Videos should:
 - Contain an IRL time and date on screen at all times
 - Capture the whole rally from setup to finish screen
-- Be published before the deadline, on the channel you signed up with, with no expiration date
+- Be submitted before the deadline, with no expiration date
 
 ### Penalties:
 - Drivers are expected to be honest. 
