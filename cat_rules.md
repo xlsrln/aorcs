@@ -3,8 +3,9 @@
 Please check the [notice board](https://github.com/xlsrln/aorcs/blob/main/news.md)
 
 #### Drivers championship:
-- There is one driver’s championship. The class will be decided by a poll (group 3, 4 or B).
+- There is one driver’s championship
 - Points for each rally according to table below
+- Worst result of the season is dropped (including DNS)
 - Points for power stage (counts towards the team)
 
 #### Team championship:
